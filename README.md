@@ -46,7 +46,7 @@ print(f"Completed in {time.time() - start:.2f} seconds")
 
 Takes 100 sec
 
-Multi-Thread Version (Fast)
+##Multi-Thread Version (Fast)
 
 import socket
 import threading
